@@ -2,14 +2,14 @@
 <p>
 
 <p align="center">
-    <a href="https://github.com/AnonymousR1025/AnonMusic/stargazers"><img src="https://img.shields.io/github/stars/AnonymousR1025/AnonMusic?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/harshjain883/AnonMusic/stargazers"><img src="https://img.shields.io/github/stars/AnonymousR1025/AnonMusic?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
 <p align="center">
-    <a href="https://github.com/AnonymousR1025/AnonMusic"> <img src="https://img.shields.io/github/repo-size/AnonymousR1025/AnonMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/AnonymousR1025/AnonMusic/commits/AnonymousR1025"> <img src="https://img.shields.io/github/last-commit/AnonymousR1025/AnonMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/AnonymousR1025/AnonMusic/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
-    <a href="https://github.com/AnonymousR1025/AnonMusic/issues"> <img src="https://img.shields.io/github/issues/AnonymousR1025/AnonMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/AnonymousR1025/AnonMusic/network/members"> <img src="https://img.shields.io/github/forks/AnonymousR1025/AnonMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://github.com/harshjain883/AnonMusic"> <img src="https://img.shields.io/github/repo-size/AnonymousR1025/AnonMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/harshjain883/AnonMusic/commits/AnonymousR1025"> <img src="https://img.shields.io/github/last-commit/AnonymousR1025/AnonMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/harshjain883/AnonMusic/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
+    <a href="https://github.com/harshjain883/AnonMusic/issues"> <img src="https://img.shields.io/github/issues/AnonymousR1025/AnonMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/harshjain883/AnonMusic/network/members"> <img src="https://img.shields.io/github/forks/AnonymousR1025/AnonMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=yellow&label=pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
@@ -63,10 +63,10 @@ The second easiest way to host this bot, Deploy on Okteto Cloud
 
 
 ### Special Credits 💖
-- [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://github.com/AnonymousR1025) for [Nothing](https://github.com/AnonymousR1025/AnonMusic)
+- [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://github.com/harshjain883) for [Nothing](https://github.com/AnonymousR1025/AnonMusic)
 - [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram) 💕
 - [Laky-64](https://github.com/Laky-64) for [Py-TgCalls](https://github.com/pytgcalls/pytgcalls) 💕
-- And Thanks To All [Contributors](https://github.com/AnonymousR1025/AnonMusic/graphs/contributors)! 💕
+- And Thanks To All [Contributors](https://github.com/harshjain883/AnonMusic/graphs/contributors)! 💕
 
 ### Support 🎑
 <a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-DevilsHeavenMF-blue.svg?style=for-the-badge&logo=Telegram"></a>
