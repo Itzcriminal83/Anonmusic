@@ -2,14 +2,14 @@
 <p>
 
 <p align="center">
-    <a href="https://github.com/harshjain883/AnonMusic/stargazers"><img src="https://img.shields.io/github/stars/AnonymousR1025/AnonMusic?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/harshjain883/AnonMusic/stargazers"><img src="https://img.shields.io/github/stars/harshjain883/AnonMusic?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
 <p align="center">
-    <a href="https://github.com/harshjain883/AnonMusic"> <img src="https://img.shields.io/github/repo-size/AnonymousR1025/AnonMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/harshjain883/AnonMusic/commits/AnonymousR1025"> <img src="https://img.shields.io/github/last-commit/AnonymousR1025/AnonMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/harshjain883/AnonMusic"> <img src="https://img.shields.io/github/repo-size/harshjain883/AnonMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/harshjain883/AnonMusic/commits/harshjain883"> <img src="https://img.shields.io/github/last-commit/harshjain883/AnonMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/harshjain883/AnonMusic/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
-    <a href="https://github.com/harshjain883/AnonMusic/issues"> <img src="https://img.shields.io/github/issues/AnonymousR1025/AnonMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/harshjain883/AnonMusic/network/members"> <img src="https://img.shields.io/github/forks/AnonymousR1025/AnonMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://github.com/harshjain883/AnonMusic/issues"> <img src="https://img.shields.io/github/issues/harshjain883/AnonMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/harshjain883/AnonMusic/network/members"> <img src="https://img.shields.io/github/forks/harshjain883/AnonMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=yellow&label=pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
@@ -54,7 +54,7 @@ and <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
 - `/end` - stop music play
 
 <h2 align="center"> Deploy To Heroku </h2>
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Vijaykumar8368/mybot67888"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/harshjain883/Anonmusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 
 <h2 align="center"> ᴅᴇᴩʟᴏʏ ᴏɴ ᴏᴋᴛᴇᴛᴏ </h2>
 
