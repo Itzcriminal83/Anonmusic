@@ -1,0 +1,7 @@
+pyrogram==1.4.16
+tgcrypto
+py-tgcalls
+youtube_search
+pytube
+git+https://github.com/AnonymousR1025/yt-dl@master
+youtube_dl

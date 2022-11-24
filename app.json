@@ -1,0 +1,36 @@
+{
+  "name": "ᴀɴᴏɴʏᴍᴏᴜs ᴍᴜsɪᴄ",
+  "description": "A Telegram Bot to play audios and videos in telegram videochats.",
+  "keywords": ["music", "voicechat", "telegram"],
+  "logo": "https://telegra.ph/file/d6ff45f5be2b42fcc2ffb.jpg",
+  "repository": "https://github.com/AnonymousR1025/AnonMusic",
+  "stack": "container",
+  "env": {
+    "SESSION_NAME": {
+      "description": "Pyrogram String Session of assistant account. Get it from @StringFatherBot",
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "A bot token from @BotFather",
+      "required": true
+    },
+    "API_ID": {
+      "description": "API_ID from my.telegram.org/apps",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "API_HASH from my.telegram.org/apps",
+      "required": true
+    },
+    "SUPPORT": {
+      "description": "Username of the chat where users will go and disturb you.(without @)",
+      "required": true,
+      "value": "DevilsHeavenMF"
+    },
+    "OWNER_ID": {
+      "description": "Your Telegram ID",
+      "required": true,
+      "value": "1356469075"
+    }
+  }
+}
