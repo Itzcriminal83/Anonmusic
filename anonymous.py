@@ -75,7 +75,7 @@ START_BUTTONS = InlineKeyboardMarkup(
             InlineKeyboardButton("💔 sᴜᴩᴩᴏʀᴛ​ 💔", url=f"https://t.me/{SUPPORT}")
         ],
         [
-            InlineKeyboardButton("🙄 sᴏᴜʀᴄᴇ 🙄", url="https://github.com/AnonymousR1025/AnonMusic")
+            InlineKeyboardButton("🙄 sᴏᴜʀᴄᴇ 🙄", url="https://github.com/harshjain883/AnonMusic")
         ]
     ]
 )
