@@ -3,7 +3,7 @@
   "description": "A Telegram Bot to play audios and videos in telegram videochats.",
   "keywords": ["music", "voicechat", "telegram"],
   "logo": "https://telegra.ph/file/d6ff45f5be2b42fcc2ffb.jpg",
-  "repository": "https://github.com/harshjain883/AnonMusic",
+  "repository": "https://github.com/Itzcriminal83/Anonmusic",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
