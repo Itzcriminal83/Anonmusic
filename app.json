@@ -4,7 +4,6 @@
   "keywords": ["music", "voicechat", "telegram"],
   "logo": "https://telegra.ph/file/d6ff45f5be2b42fcc2ffb.jpg",
   "repository": "https://github.com/Itzcriminal83/Anonmusic",
-  "stack": "container",
   "env": {
     "SESSION_NAME": {
       "description": "Pyrogram String Session of assistant account. Get it from @StringFatherBot",
@@ -32,5 +31,17 @@
       "required": true,
       "value": "1356469075"
     }
-  }
+},
+    "buildpacks": [
+          {
+              "url": "heroku/python"
+          },
+          {
+              "url": "heroku/nodejs"
+          },
+          {
+              "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+          }
+      ],
+      "stack": "container"
 }
