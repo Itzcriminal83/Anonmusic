@@ -1,1 +1,1 @@
-worker: python3 anonymous.py
+worker: bash start
